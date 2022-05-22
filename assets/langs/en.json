@@ -1,0 +1,22 @@
+{
+  "connectTimeout": "Connection time out, try again !",
+  "sendTimeout": "Sending time out, try again !",
+  "receiveTimeout": "Receive time out, try again !",
+  "cancel": "Canceled connection, try again !",
+  "other": "Something went wrong, check your connection and try again !",
+  "badRequest": "Bad request, try again !",
+  "unauthorised": "Unauthorised, try again !",
+  "invalidInput": "InvalidInput, try again !",
+  "format": "Error occurred, try again !",
+  "home_wallpapers": "Home Wallpapers",
+  "search_wallpapers": "Search Wallpapers",
+  "favourite_wallpapers": "Favourite Wallpapers",
+  "home_desc": "The best free stock photos.",
+  "home": "Home",
+  "search": "Search",
+  "favourite": "Favourite",
+  "loading": "Loading",
+  "download": "Download",
+  "image_downloaded": "Image downloaded...",
+  "image_not_downloaded": "Image not downloaded ...!"
+}
